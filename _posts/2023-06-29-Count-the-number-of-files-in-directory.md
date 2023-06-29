@@ -1,3 +1,8 @@
+---
+title: "Counting the number of files in a large directory"
+date: 2023-06-29
+---
+
 Every now and then you get a rather large dataset, with many files. In Computer Vision world, it is common to have these organised by classes.
 For example, I have a dataset of images of cars. It looks a bit like this:
 
